@@ -1,0 +1,2 @@
+bottoken = "7481351004:AAGllq4JKT6ica5QW1h3jpPVwRpKF8kXFAI"
+adminid = 562551651
